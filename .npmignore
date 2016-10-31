@@ -19,6 +19,7 @@ bundle.js
 /scripts/
 /draft-js-focus-plugin/
 /draft-js-undo-plugin/
+package.json
 
 # NPM debug
 npm-debug.log
