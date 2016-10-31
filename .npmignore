@@ -8,7 +8,17 @@ bundle.js
 .bundle.js
 
 # sources
-/src/
+/docs/
+/draft-js-alignment-plugin/
+/draft-js-dnd-plugin/
+/draft-js-emoji-plugin/
+/draft-js-image-plugin/
+/draft-js-sticker-plugin/
+/draft-js-undo-plugin/
+/legacy/
+/scripts/
+/draft-js-focus-plugin/
+/draft-js-undo-plugin/
 
 # NPM debug
 npm-debug.log
